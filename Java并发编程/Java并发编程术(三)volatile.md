@@ -1,4 +1,4 @@
-#  Java并发编程术(三)volatile
+#  Java并发编程(三)volatile
 
 ## 并发编程的两个关键问题
 
