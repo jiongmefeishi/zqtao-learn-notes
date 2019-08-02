@@ -2,9 +2,13 @@
 
 **简书**：https://www.jianshu.com/u/7110a2ba6f9e
 
+**知乎**：https://www.zhihu.com/people/zqtao23/posts
+
 **GitHub源码**：https://github.com/zqtao2332
 
-**个人网站**：http://www.zqtaotao.cn/  （停止维护更新内容，转移简书）
+**个人网站**：http://www.zqtaotao.cn/  （停止维护更新内容）
+
+**QQ交流群**：606939954
 
 ​	    咆哮怪兽一枚...嗷嗷嗷...趁你现在还有时间，尽你自己最大的努力。努力做成你最想做的那件事，成为你最想成为的那种人，过着你最想过的那种生活。也许我们始终都只是一个小人物，但这并不妨碍我们选择用什么样的方式活下去，这个世界永远比你想的要更精彩。
 
