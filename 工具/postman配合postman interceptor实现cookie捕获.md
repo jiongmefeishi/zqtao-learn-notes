@@ -1,0 +1,5 @@
+# postman配合postman interceptor实现cookie捕获
+
+postman直接在官网下载即可，但是postman interceptor因为牵扯到Google 商店，所以使用第三方下载地址。目前提供版本较高的可供下载地址如下。因为postman已经不能和Google合并使用，postman interceptor尽量下载最高版本。
+
+postman interceptor 下载地址：
